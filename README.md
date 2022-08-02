@@ -11,10 +11,3 @@
 <h2>🎨 Layouts</h2>
 <img src="img/yugioh.gif">
 
- <h2 id="autor"> 🦸 Autor</h2>
-
-[Rodrigo-Souza-Dev](https://github.com/Rodrigo-Souza-DEV)
-
-<p>Feito por Rodrigo Souza.</p>
-<hr>
-
